@@ -1,0 +1,130 @@
+body{
+    background-color: darkorange;
+    background: url(img7.png);
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 4.5rem;
+    color: black;
+    font-weight: lighter;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    z-index: 2;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    height: fit-content;
+    width: fit-content;
+    margin-left: 24rem;
+    border-radius: 2%;    
+}
+
+/* .image{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    height: 50%;
+    width: 70%;
+    position: relative;
+    z-index: 1;
+    margin-top: -15rem;
+
+} */
+
+.lists{
+    display: flex;
+    flex-direction: row;
+}
+
+.box-cord{
+    background-color: aliceblue;
+    margin-top: 13rem;
+    display: flex;
+    flex-flow: row wrap;
+    height: 17rem;
+}
+
+.z{
+    background-color: white;
+    flex: 1 1 auto;
+    border-style: inset;
+    box-shadow: 10px 5px 5px red;
+    
+}
+.x{
+    background-color: white;
+    flex: 1 1 auto;
+    border-style: inset solid;
+    box-shadow: 10px 5px 5px red;
+}
+.c{
+    background-color: white;
+    flex: 1 1 auto;
+    border-style: inset ;
+    box-shadow: 10px 5px 5px red;
+}
+.v{
+    background-color: white;
+    flex: 1 1 auto;
+    border-style: inset solid;
+    box-shadow: 10px 5px 5px red;
+}
+.b{
+    background-color: white;
+    flex: 1 1 auto;
+    border-style: inset;
+    box-shadow: 10px 5px 5px red;
+}
+.n{
+    background-color: white;
+    flex: 1 1 auto;
+    border-style: inset solid;
+    box-shadow: 10px 5px 5px red;
+}
+.m{
+    background-color: white;
+    flex: 1 1 auto;
+    border-style: inset;
+    box-shadow: 10px 5px 5px red;
+}
+.a1{
+    background-color: white;
+    flex: 1 1 auto;
+    border-style: inset solid;
+    box-shadow: 10px 5px 5px red;
+}
+.a2{
+    background-color: white;
+    flex: 1 1 auto;
+    border-style: inset;
+    box-shadow: 10px 5px 5px red;
+}
+.a3{
+    background-color: white;
+    flex: 1 1 auto;
+    border-style: inset solid;
+    box-shadow: 10px 5px 5px red;
+}
+.a4{
+    background-color: white;
+    flex: 1 1 auto;
+    border-style: inset;
+    box-shadow: 10px 5px 5px red;
+}
+.a5{
+    background-color: white;
+    flex: 1 1 auto;
+    border-style: inset solid;
+    box-shadow: 10px 5px 5px red;
+}
+.a6{
+    background-color: white;
+    flex: 1 1 auto;
+    border-style: inset;    
+    box-shadow: 1px 5px 5px red;
+}
+
+
